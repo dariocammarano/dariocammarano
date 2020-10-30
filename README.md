@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dario Cammarano</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 💬 Ask me about **java, php, js** - 
-📫 How to reach me
-**cammarano.dario@gmail.com**
+- 💬 Ask me about **java, php, js**
+- 📫 How to reach me **cammarano.dario@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <h4>BackEnd:</h4>
-  <a href="https://www.java.com" target="_blank" style="text-decoration: none;">
+  <a href="https://www.java.com" target="_blank" style="text-decoration: none; display: block; background: #ddd; border-radius: 20px; padding: 5px;">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"
       alt="java"
